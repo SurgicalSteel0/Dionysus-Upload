@@ -1,13 +1,15 @@
 {
     "name": "dionysus/upload",
     "description": "Dionysus Upload is an easy to use class to help you with uploading any file.",
+    "homepage": "https://github.com/SurgicalSteel0/Dionysus-Upload",
+    "license": "MIT",
     "authors": [
         {
             "name": "Denis Priebe",
             "email": "denisrpriebe@gmail.com"
         }
     ],
-    "minimum-stability": "master",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3"
     },

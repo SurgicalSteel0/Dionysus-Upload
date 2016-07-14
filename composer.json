@@ -1,0 +1,19 @@
+{
+    "name": "dionysus/upload",
+    "description": "Dionysus Upload is an easy to use class to help you with uploading any file.",
+    "authors": [
+        {
+            "name": "Denis Priebe",
+            "email": "denisrpriebe@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dionysus": "src/"
+        }
+    }
+}

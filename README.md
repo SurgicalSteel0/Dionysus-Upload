@@ -1,6 +1,6 @@
-# PHP Simple Upload
+# Dionysus Upload
 
-PHP Simple Upload is an easy to use class to help you with uploading any file.
+Dionysus Upload is an easy to use class to help you with uploading any file.
 
 ### How To Use
 
